@@ -34,6 +34,11 @@ Spoken questions in Spanish, turned into SQL by a language model, over open GBIF
 
 [Read the architecture](https://davidameth.dev/proyectos/biodiversidad/) (in Spanish)
 
+## Education
+
+- B.S. in Computer Networks — Universidad Tecnológica de Panamá, 2026
+- Engineering Technician degree with a specialization in Computer Networks — Universidad Tecnológica de Panamá, 2026
+
 ## Certifications
 
 Anthropic Education, August 2026 — [Claude 101](https://verify.skilljar.com/c/ion9sn7zm9gf) · [Claude Code 101](https://verify.skilljar.com/c/o6ecweqhgg6z) · [Claude Platform 101](https://verify.skilljar.com/c/8tirth3svhoy)

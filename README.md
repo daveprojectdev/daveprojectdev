@@ -41,11 +41,11 @@ Spoken questions in Spanish, turned into SQL by a language model, over open GBIF
 
 ## Certifications
 
-Claude Academy, October 2026 — [Claude Code 101](https://academy.claude.com/verify/c386c31c7c35957be8054828a24cf4bb)
+Claude Academy, October 2026 — [Claude 101](https://academy.claude.com/verify/5b64586891f6b42f446df19a6f4cba2f) · [Claude Code 101](https://academy.claude.com/verify/c386c31c7c35957be8054828a24cf4bb)
 
 Postman Academy, October 2026 — [API Testing Learning Path](https://verify.skilljar.com/c/aa96quhpk6zq)
 
-Anthropic Education, August 2026 — [Claude 101](https://verify.skilljar.com/c/ion9sn7zm9gf) · [Claude Platform 101](https://verify.skilljar.com/c/8tirth3svhoy)
+Anthropic Education, August 2026 — [Claude Platform 101](https://verify.skilljar.com/c/8tirth3svhoy)
 
 ## Contact
 

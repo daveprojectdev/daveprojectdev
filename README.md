@@ -10,17 +10,17 @@ Five years in quality assurance across banking and telecom in Panama: Tigo, Bane
 
 ## What I've built
 
-### [Torneo Volleyball 2026](https://torneo-volleyball-2026.vercel.app) · in production
+### [Torneo Volleyball 2026](https://torneo.davidameth.dev) · in production
 
 A seven-team league, 21 games, live all season long. I built it and I tested it.
 
 **53 players · 21 games · zero mismatched scores**
 
-[![The tournament platform in production: the current round, its games, and the list of teams.](https://davidameth.dev/projects/torneo-volleyball.webp)](https://torneo-volleyball-2026.vercel.app)
+[![The tournament platform in production: the current round, its games, and the list of teams.](https://davidameth.dev/projects/torneo-volleyball.webp)](https://torneo.davidameth.dev)
 
 `React 18` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Playwright` `Vercel`
 
-[See it live](https://torneo-volleyball-2026.vercel.app) · [Read the architecture](https://davidameth.dev/proyectos/torneo/) (in Spanish)
+[See it live](https://torneo.davidameth.dev) · [Read the architecture](https://davidameth.dev/proyectos/torneo/) (in Spanish)
 
 ### Voice queries over Panama's biodiversity data · runs locally
 

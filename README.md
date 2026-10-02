@@ -47,6 +47,6 @@ Anthropic Education, August 2026 — [Claude 101](https://verify.skilljar.com/c/
 
 ## Contact
 
-[davidameth.dev](https://davidameth.dev/en/) · [hola@davidameth.dev](mailto:hola@davidameth.dev) · [LinkedIn](https://www.linkedin.com/in/sirdaviam24)
+[davidameth.dev](https://davidameth.dev/en/) · [hola@davidameth.dev](mailto:hola@davidameth.dev) · [LinkedIn](https://davidameth.dev/linkedin) · [Resume](https://davidameth.dev/cv) (PDF, in Spanish)
 
 <sub>En español: [davidameth.dev](https://davidameth.dev)</sub>

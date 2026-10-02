@@ -41,6 +41,8 @@ Spoken questions in Spanish, turned into SQL by a language model, over open GBIF
 
 ## Certifications
 
+Postman Academy, October 2026 — [API Testing Learning Path](https://verify.skilljar.com/c/aa96quhpk6zq)
+
 Anthropic Education, August 2026 — [Claude 101](https://verify.skilljar.com/c/ion9sn7zm9gf) · [Claude Code 101](https://verify.skilljar.com/c/o6ecweqhgg6z) · [Claude Platform 101](https://verify.skilljar.com/c/8tirth3svhoy)
 
 ## Contact

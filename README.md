@@ -22,6 +22,18 @@ A seven-team league, 21 games, live all season long. I built it and I tested it.
 
 [See it live](https://torneo.davidameth.dev) · [Read the architecture](https://davidameth.dev/proyectos/torneo/) (in Spanish)
 
+### [Torneo Volleyball 2026 API](https://api.davidameth.dev/docs) · in production
+
+A public REST API with the tournament's real data: set-by-set results, the FIVB standings with every tiebreak explained, and the final-phase podium. Its standings and podium must match the live platform's, and a test checks that.
+
+**100 tests · 99% coverage · 7 bugs caught and fixed**
+
+[![The API's interactive docs: the description, the server, and examples for calling it.](https://davidameth.dev/projects/api-torneo-docs.webp)](https://api.davidameth.dev/docs)
+
+`Python` `FastAPI` `Pydantic` `pytest` `Hypothesis` `Schemathesis` `uv` `Vercel`
+
+[Try the API](https://api.davidameth.dev/docs) · [View the code](https://github.com/daveprojectdev/api-torneo) · [Read the architecture](https://davidameth.dev/proyectos/api-torneo/) (in Spanish)
+
 ### Voice queries over Panama's biodiversity data · runs locally
 
 Spoken questions in Spanish, turned into SQL by a language model, over open GBIF data. A move to the cloud is on the way.

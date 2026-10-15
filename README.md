@@ -12,7 +12,7 @@ Five years in quality assurance across banking and telecom in Panama: Tigo, Bane
 
 ### [Torneo Volleyball 2026](https://torneo.davidameth.dev) · in production
 
-A seven-team league, 21 games, live all season long. I built it and I tested it.
+The platform for a seven-team league, with live scores, standings, and rounds all season long. I built it and I tested it.
 
 **53 players · 21 games · zero mismatched scores**
 
@@ -33,6 +33,18 @@ A public REST API with the tournament's real data: set-by-set results, the FIVB 
 `Python` `FastAPI` `Pydantic` `pytest` `Hypothesis` `Schemathesis` `uv` `Vercel`
 
 [Try the API](https://api.davidameth.dev/docs) · [View the code](https://github.com/daveprojectdev/api-torneo) · [Read the architecture](https://davidameth.dev/proyectos/api-torneo/) (in Spanish)
+
+### [ScrumGames](https://scrumgames.davidameth.dev) · in production
+
+Ten activities for a Scrum team's retrospectives, from 10 to 60 minutes, in Spanish and English. In most of them, everyone joins from their phone or computer with a code, answers, and votes, and the top-voted topics become commitments with an owner. Each activity has its own 3D scene with the team in it: a wheel, a sprint trial, a medal gala, an auction house, a roller coaster, and more. No accounts: if someone loses their connection or switches devices, they pick up right where they left off.
+
+**10 activities, 3 to 15 people in real time · Rooms are deleted automatically after 15 days · Every write validated in the database**
+
+[![The ScrumGames home page: the question “How did the sprint go?”, a row with the icons of the 10 games, and the field to join with a room code.](https://davidameth.dev/projects/scrumgames-menu.webp)](https://scrumgames.davidameth.dev)
+
+`HTML` `CSS` `JavaScript` `three.js` `Supabase` `PostgreSQL` `Vercel`
+
+[See the games](https://scrumgames.davidameth.dev)
 
 ### Voice queries over Panama's biodiversity data · runs locally
 

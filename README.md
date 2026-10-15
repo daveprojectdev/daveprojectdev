@@ -16,7 +16,7 @@ The platform for a seven-team league, with live scores, standings, and rounds al
 
 **53 players · 21 games · zero mismatched scores**
 
-[![The tournament platform in production: the current round, its games, and the list of teams.](https://davidameth.dev/projects/torneo-volleyball.webp)](https://torneo.davidameth.dev)
+[![The tournament platform in production: the season's podium and the list of teams.](https://davidameth.dev/projects/torneo-volleyball.webp)](https://torneo.davidameth.dev)
 
 `React 18` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Playwright` `Vercel`
 

@@ -46,17 +46,17 @@ Ten activities for a Scrum team's retrospectives, from 10 to 60 minutes, in Span
 
 [See the games](https://scrumgames.davidameth.dev)
 
-### Voice queries over Panama's biodiversity data · runs locally
+### [Living Atlas · Panama's Biodiversity](https://biodiversidad.davidameth.dev) · in production
 
-Spoken questions in Spanish, turned into SQL by a language model, over open GBIF data. A move to the cloud is on the way.
+Questions in Spanish, typed or spoken, that a language model turns into SQL over a real GBIF database. The answer is drawn on a map of Panama, with photos and recordings of the sightings. It started as a Database Systems II project and now runs in the cloud.
 
-**51,761 bird sightings · 3 models in a fallback chain**
+**60,191 amphibian and bird sightings · Checked against MySQL: 72 of 72 tests match**
 
-[![The interface, with the field for speaking or typing your question.](https://davidameth.dev/projects/biodiversidad-voz.webp)](https://davidameth.dev/proyectos/biodiversidad/)
+[![The Living Atlas, in Spanish: the headline, the field for asking a question, and a map of Panama showing amphibian species by province, with a red-eyed tree frog in the Pacific.](https://davidameth.dev/projects/biodiversidad-atlas.webp)](https://biodiversidad.davidameth.dev)
 
-`Python` `Flask` `MySQL` `Whisper` `edge-tts` `Ollama` `Qwen3` `Groq` `Gemini`
+`TypeScript` `Hono` `Cloudflare Workers` `Cloudflare Pages` `PostgreSQL` `Neon` `Groq` `Gemini` `Python`
 
-[Read the architecture](https://davidameth.dev/proyectos/biodiversidad/) (in Spanish)
+[Open the atlas](https://biodiversidad.davidameth.dev) · [Read the architecture](https://davidameth.dev/proyectos/biodiversidad/) (in Spanish)
 
 ## Education
 

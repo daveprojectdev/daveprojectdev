@@ -54,9 +54,9 @@ Questions in Spanish, typed or spoken, that a language model turns into SQL over
 
 [![The Living Atlas, in Spanish: the headline, the field for asking a question, and a map of Panama showing amphibian species by province, with a red-eyed tree frog in the Pacific.](https://davidameth.dev/projects/biodiversidad-atlas.webp)](https://biodiversidad.davidameth.dev)
 
-`TypeScript` `Hono` `Cloudflare Workers` `Cloudflare Pages` `PostgreSQL` `Neon` `Groq` `Gemini` `Python`
+`TypeScript` `Hono` `Cloudflare Workers` `Cloudflare Pages` `PostgreSQL` `Neon` `Groq` `Gemini` `Whisper` `Python`
 
-[Open the atlas](https://biodiversidad.davidameth.dev) · [Read the architecture](https://davidameth.dev/proyectos/biodiversidad/) (in Spanish)
+[Open the atlas](https://biodiversidad.davidameth.dev) · [View the code](https://github.com/daveprojectdev/Biodiversidad_PA) · [Read the architecture](https://davidameth.dev/proyectos/biodiversidad/) (in Spanish)
 
 ## Education
 

@@ -58,6 +58,18 @@ Questions in Spanish, typed or spoken, that a language model turns into SQL over
 
 [Open the atlas](https://biodiversidad.davidameth.dev) · [View the code](https://github.com/daveprojectdev/Biodiversidad_PA) · [Read the architecture](https://davidameth.dev/proyectos/biodiversidad/) (in Spanish)
 
+### A bank's network lab · tested on every change
+
+A bank's network in containers: headquarters, a data center, two branches, two internet providers, and an ATM network. On every change, GitHub Actions spins it up, cuts links while measuring what gets lost, lets a hacker try to break in, and tears it down. The 3D city replays the latest run, packet by packet.
+
+**75 tests on every change · Worst outage: 0.2 s · 6 of 6 attacks blocked**
+
+[![The lab's 3D view: the bank's city from above, with headquarters, the data center, and the branches in orange, cables running along the streets, and, on top, the latest run's figures and the scenario buttons.](https://davidameth.dev/projects/lab-red-vista.webp)](https://davidameth.dev/proyectos/lab-red/)
+
+`Containerlab` `FRRouting` `OSPF` `BGP` `iptables` `Python` `GitHub Actions` `three.js`
+
+[See the network in 3D](https://davidameth.dev/proyectos/lab-red/) (in Spanish) · [View the code](https://github.com/daveprojectdev/lab-red-banco)
+
 ## Education
 
 - B.S. in Computer Networks — Universidad Tecnológica de Panamá, 2026

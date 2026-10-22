@@ -36,11 +36,11 @@ A public REST API with the tournament's real data: set-by-set results, the FIVB 
 
 ### [ScrumGames](https://scrumgames.davidameth.dev) · in production
 
-Ten activities for a Scrum team's retrospectives, from 10 to 60 minutes, in Spanish and English. In most of them, everyone joins from their phone or computer with a code, answers, and votes, and the top-voted topics become commitments with an owner. Each activity has its own 3D scene with the team in it: a wheel, a sprint trial, a medal gala, an auction house, a roller coaster, and more. No accounts: if someone loses their connection or switches devices, they pick up right where they left off.
+Fifteen activities for a Scrum team, in Spanish and English: five 10-minute icebreakers to start the meeting laughing and ten retrospectives from 10 to 60 minutes. In most of them, everyone joins from their phone or computer with a code, answers, and votes; in the retros, the top-voted topics become commitments with an owner. Each retrospective has its own 3D scene with the team in it: a wheel, a sprint trial, a medal gala, an auction house, a roller coaster, and more. No accounts: if someone loses their connection or switches devices, they pick up right where they left off.
 
-**10 activities, 3 to 15 people in real time · Rooms are deleted automatically after 15 days · Every write validated in the database**
+**15 activities, 3 to 15 people in real time · Rooms are deleted automatically after 15 days · Every write validated in the database**
 
-[![The ScrumGames home page: the question “How did the sprint go?”, a row with the icons of the 10 games, and the field to join with a room code.](https://davidameth.dev/projects/scrumgames-menu.webp)](https://scrumgames.davidameth.dev)
+[![The ScrumGames home page: the question “How did the sprint go?”, a row with the icons of the 15 activities, and the field to join with a room code.](https://davidameth.dev/projects/scrumgames-menu.webp)](https://scrumgames.davidameth.dev)
 
 `HTML` `CSS` `JavaScript` `three.js` `Supabase` `PostgreSQL` `Vercel`
 
